@@ -3,9 +3,12 @@
 String matching
 
 Time Complexity: O(|P| + |T|)
+
 ## References:
 
 https://www.codingninjas.com/studio/library/z-algorithm
+
+https://www.youtube.com/watch?v=1Z--FP48Y20
 
 ## Practice
 
