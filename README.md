@@ -1,4 +1,4 @@
-# zAlgorithm
+w# zAlgorithm
 
 String matching algorithm
 
@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=1Z--FP48Y20
 ## Practice
 
 https://www.infoarena.ro/problema/strmatch
+
+https://codeforces.com/contest/126/problem/B
 
 ## ideone
 
