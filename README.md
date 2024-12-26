@@ -1,6 +1,6 @@
 # zAlgorithm
 
-String matching
+String matching algorithm
 
 Time Complexity: O(|P| + |T|)
 
@@ -14,6 +14,6 @@ https://www.youtube.com/watch?v=1Z--FP48Y20
 
 https://www.infoarena.ro/problema/strmatch
 
-## Sample
+## ideone
 
 https://ideone.com/1MF3qB
